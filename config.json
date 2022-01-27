@@ -1,7 +1,7 @@
 {
-  "TOKEN": "OTM0OTIyNzI4MzA0MTY0OTE1.Ye3IpA.9Otfc1MECQ8h1zbRceSwVa6ABQA", //Token of your Bot
-  "CHANNEL": "848597313378713612", //Music Channel ID (The Channel where the Should Should Play the Music)
-  "SERVER": "848597313378713610", //Server ID (the Serever where you want to Play the Music in)
-  "STATUS": "NCS", //Status of the Bot
+  "TOKEN": "OTM0OTIyNzI4MzA0MTY0OTE1.Ye3IpA.QfbGdrZPoeDEq6FR3Bl5QT_cB6Q", //Token of your Bot
+  "CHANNEL": "934921203792117760", //Music Channel ID (The Channel where the Should Should Play the Music)
+  "SERVER": "830397867918753823", //Server ID (the Serever where you want to Play the Music in)
+  "STATUS": "Listening to music", //Status of the Bot
   "LIVE": "https://www.youtube.com/watch?v=7tNtU5XFwrU" 
 }
